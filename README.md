@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yousefnaserabdo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/youssefnaserabdo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/youssefnaserabdo/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -14,7 +14,7 @@
 Detail-oriented Data Analyst skilled in converting complex datasets into actionable insights through dynamic dashboards and automated reports. Experienced in SQL, Python, Power BI, and Excel, with a proven record of cutting report generation time by 40% and enhancing data accuracy by 35%. Eager to pursue a role as a Data Analyst or Business Intelligence Analyst.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YousefNaserAbdo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefnaserabdo&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>
 
 ## 🚀 Skills & Technologies
@@ -65,16 +65,71 @@ Detail-oriented Data Analyst skilled in converting complex datasets into actiona
 </table>
 
 
+  <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/minitab/minitab-original.svg" height="60" alt="minitab logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="60" alt="figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+</div>
+
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="60" alt="microsoftsqlserver logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height="60" alt="googlecolab logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="60" alt="R logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  </div>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="60" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="60" alt="matplotlib logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="60" alt="numpy logo" />
+  <img width="12" />
+</div>
+
+---
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefNaserAbdo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefnaserabdo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 📈 Featured Projects
 
-### 🧑‍💼 HR Attrition Dashboard
+### 💼 HR Attrition Dashboard
 
 The HR Attrition Dashboard delivers a clear, data-driven view of workforce health, helping HR and business leaders quickly spot key risks and opportunities. It highlights overall headcount, attrition rates, and patterns across departments, salaries, experience, and distance from home, revealing where turnover is highest and which factors like tenure, promotion waits, or salary hikes drive employees to leave. These insights enable smarter decisions on compensation, career development, and retention strategies to reduce attrition and protect top talent.
-- **Technologies:** Power BI, Microsoft Power Query, DAX
+- **`Technologies:`** Power BI, Microsoft Power Query, DAX
 
 ### 🎵 Music Chinook Dashboard
 
@@ -82,7 +137,7 @@ This project showcases a full end-to-end data analytics workflow built with Powe
 I connected to the Chinook database using ODBC and extracted the required data by writing custom SQL queries directly inside Power Query’s Advanced Editor.
 After loading the refined data into Power BI, I created KPIs, Measures, and interactive charts to deliver powerful visual insights.
 The final dashboard provides a comprehensive view of music sales, tracks, employees, customers, artists, and playlists, combining SQL-driven data modelling with dynamic Power BI visualizations.
-- **Technologies:** Power BI, Microsoft Power Query, SQL, ODBC
+- **`Technologies:`** Power BI, Microsoft Power Query, SQL, ODBC
 
 ### 🛒 NexaStore Business Intelligence Dashboard
 
@@ -91,24 +146,24 @@ Data preparation, cleaning, and modeling.
 Building DAX measures & KPIs (Sales, Profit, Orders, Customers).
 Visualizing insights through charts, maps, and trends.
 Implementing slicers and filters for dynamic exploration.
-- **Technologies:** Power BI, Microsoft Power Query, DAX
+- **`Technologies:`** Power BI, Microsoft Power Query, DAX
 
 ## 📫 Let's Connect!
 <div align="center">
-  <a href="mailto:nasseryoussef472@gmail.com">
+  <a href="mailto:catyousef93@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/yousefnaserabdo/">
+  <a href="https://www.linkedin.com/in/youssefnaserabdo/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YousefNaserAbdo&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=youssefnaserabdo&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YousefNaserAbdo&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=youssefnaserabdo&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
 </div>
