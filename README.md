@@ -165,5 +165,5 @@ Implementing slicers and filters for dynamic exploration.
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youssefnaserabdo&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=youssefnaserabdo&theme=darkhub&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
